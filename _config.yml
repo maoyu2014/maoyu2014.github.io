@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://maoyu2014.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Mark Blog
+subtitle: 技术、生活、总结、体能
+author: mark
 simple_search: https://www.google.com/search
-description:
+description: 啦啦啦啦啦啦
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:title/
 source: source
 destination: public
 plugins: plugins
