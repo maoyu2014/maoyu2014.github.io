@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 生活 | Mark Blog]]></title>
+  <link href="http://maoyu2014.github.io/blog/categories/sheng-huo/atom.xml" rel="self"/>
+  <link href="http://maoyu2014.github.io/"/>
+  <updated>2015-06-05T16:24:46+08:00</updated>
+  <id>http://maoyu2014.github.io/</id>
+  <author>
+    <name><![CDATA[mark]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Wo_shi]]></title>
+    <link href="http://maoyu2014.github.io/blog/wo-shi/"/>
+    <updated>2015-06-05T16:23:40+08:00</updated>
+    <id>http://maoyu2014.github.io/blog/wo-shi</id>
+    <content type="html"><![CDATA[<p>我是当减肥快圣诞节疯狂的健身卡房间打开</p>
+]]></content>
+  </entry>
+  
+</feed>
